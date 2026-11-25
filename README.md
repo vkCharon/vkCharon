@@ -20,8 +20,8 @@
 
 ## 💻 Installation
 
-打開你的終端機（如果你連這個都不會，真的是 L bozo 🤡），然後輸入：
+Miguel 這個你也要 deploy?! 出去摸草gng
 
-```bash
+```dafuq twin
 # 不要忘記加上 --save-gyatt 來最大化你的依賴套件
-npm install skibidi-sigma-rizz --save-gyatt
+npm install dih
